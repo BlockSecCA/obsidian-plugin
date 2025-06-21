@@ -1,0 +1,10 @@
+{
+  "id": "sample-plugin",
+  "name": "Sample Plugin",
+  "version": "0.0.1",
+  "minAppVersion": "0.15.0",
+  "description": "A minimal starter plugin for Obsidian",
+  "author": "Your Name",
+  "authorUrl": "https://example.com",
+  "isDesktopOnly": false
+}
